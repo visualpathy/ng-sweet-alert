@@ -2,7 +2,7 @@
  *  * @description directive for sweet alert 
  * @author Tushar Borole
  * @createDate 18/04/2015
- * @version 1.0.3
+ * @version 1.0.11
  * @lastmodifiedDate 06/18/2015
  */
 
